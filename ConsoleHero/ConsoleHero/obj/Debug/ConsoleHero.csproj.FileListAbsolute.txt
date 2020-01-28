@@ -1,0 +1,37 @@
+C:\Users\PROJETOS02\OneDrive\Faculdade\Programação\ConsoleHero\ConsoleHero\bin\Debug\ConsoleHero.exe.config
+C:\Users\PROJETOS02\OneDrive\Faculdade\Programação\ConsoleHero\ConsoleHero\bin\Debug\ConsoleHero.exe
+C:\Users\PROJETOS02\OneDrive\Faculdade\Programação\ConsoleHero\ConsoleHero\bin\Debug\ConsoleHero.pdb
+C:\Users\PROJETOS02\OneDrive\Faculdade\Programação\ConsoleHero\ConsoleHero\obj\Debug\ConsoleHero.exe
+C:\Users\PROJETOS02\OneDrive\Faculdade\Programação\ConsoleHero\ConsoleHero\obj\Debug\ConsoleHero.pdb
+C:\Users\PROJETOS02\OneDrive\Faculdade\Programação\ConsoleHero\ConsoleHero\obj\Debug\ConsoleHero.csprojResolveAssemblyReference.cache
+C:\Users\altivoo\Downloads\ConsoleHero\ConsoleHero\bin\Debug\ConsoleHero.exe.config
+C:\Users\altivoo\Downloads\ConsoleHero\ConsoleHero\bin\Debug\ConsoleHero.exe
+C:\Users\altivoo\Downloads\ConsoleHero\ConsoleHero\bin\Debug\ConsoleHero.pdb
+C:\Users\altivoo\Downloads\ConsoleHero\ConsoleHero\obj\Debug\ConsoleHero.csprojResolveAssemblyReference.cache
+C:\Users\altivoo\Downloads\ConsoleHero\ConsoleHero\obj\Debug\ConsoleHero.csproj.CoreCompileInputs.cache
+C:\Users\altivoo\Downloads\ConsoleHero\ConsoleHero\obj\Debug\ConsoleHero.exe
+C:\Users\altivoo\Downloads\ConsoleHero\ConsoleHero\obj\Debug\ConsoleHero.pdb
+C:\Users\PROJETOS02\OneDrive\Documentos\Faculdade\Programação\ConsoleHero\ConsoleHero\bin\Debug\ConsoleHero.exe.config
+C:\Users\PROJETOS02\OneDrive\Documentos\Faculdade\Programação\ConsoleHero\ConsoleHero\bin\Debug\ConsoleHero.exe
+C:\Users\PROJETOS02\OneDrive\Documentos\Faculdade\Programação\ConsoleHero\ConsoleHero\bin\Debug\ConsoleHero.pdb
+C:\Users\PROJETOS02\OneDrive\Documentos\Faculdade\Programação\ConsoleHero\ConsoleHero\obj\Debug\ConsoleHero.csprojResolveAssemblyReference.cache
+C:\Users\PROJETOS02\OneDrive\Documentos\Faculdade\Programação\ConsoleHero\ConsoleHero\obj\Debug\ConsoleHero.exe
+C:\Users\PROJETOS02\OneDrive\Documentos\Faculdade\Programação\ConsoleHero\ConsoleHero\obj\Debug\ConsoleHero.pdb
+C:\Users\PROJETOS02\OneDrive\Documentos\Faculdade\1º Semestre\Programação\ConsoleHero\ConsoleHero\obj\Debug\ConsoleHero.csprojResolveAssemblyReference.cache
+C:\Users\PROJETOS02\OneDrive\Documentos\Faculdade\1º Semestre\Programação\ConsoleHero\ConsoleHero\obj\Debug\ConsoleHero.exe
+C:\Users\PROJETOS02\OneDrive\Documentos\Faculdade\1º Semestre\Programação\ConsoleHero\ConsoleHero\obj\Debug\ConsoleHero.pdb
+C:\Users\PROJETOS02\OneDrive\Documentos\Faculdade\1º Semestre\Programação\ConsoleHero\ConsoleHero\bin\Debug\ConsoleHero.exe.config
+C:\Users\PROJETOS02\OneDrive\Documentos\Faculdade\1º Semestre\Programação\ConsoleHero\ConsoleHero\bin\Debug\ConsoleHero.exe
+C:\Users\PROJETOS02\OneDrive\Documentos\Faculdade\1º Semestre\Programação\ConsoleHero\ConsoleHero\bin\Debug\ConsoleHero.pdb
+C:\Users\PROJETOS02\OneDrive\Faculdade\1º Semestre\Programação\ConsoleHero\ConsoleHero\bin\Debug\ConsoleHero.exe.config
+C:\Users\PROJETOS02\OneDrive\Faculdade\1º Semestre\Programação\ConsoleHero\ConsoleHero\bin\Debug\ConsoleHero.exe
+C:\Users\PROJETOS02\OneDrive\Faculdade\1º Semestre\Programação\ConsoleHero\ConsoleHero\bin\Debug\ConsoleHero.pdb
+C:\Users\PROJETOS02\OneDrive\Faculdade\1º Semestre\Programação\ConsoleHero\ConsoleHero\obj\Debug\ConsoleHero.csprojResolveAssemblyReference.cache
+C:\Users\PROJETOS02\OneDrive\Faculdade\1º Semestre\Programação\ConsoleHero\ConsoleHero\obj\Debug\ConsoleHero.exe
+C:\Users\PROJETOS02\OneDrive\Faculdade\1º Semestre\Programação\ConsoleHero\ConsoleHero\obj\Debug\ConsoleHero.pdb
+C:\Users\Flux-T16\Downloads\ConsoleHero\ConsoleHero\ConsoleHero\bin\Debug\ConsoleHero.exe.config
+C:\Users\Flux-T16\Downloads\ConsoleHero\ConsoleHero\ConsoleHero\bin\Debug\ConsoleHero.exe
+C:\Users\Flux-T16\Downloads\ConsoleHero\ConsoleHero\ConsoleHero\bin\Debug\ConsoleHero.pdb
+C:\Users\Flux-T16\Downloads\ConsoleHero\ConsoleHero\ConsoleHero\obj\Debug\ConsoleHero.csprojAssemblyReference.cache
+C:\Users\Flux-T16\Downloads\ConsoleHero\ConsoleHero\ConsoleHero\obj\Debug\ConsoleHero.exe
+C:\Users\Flux-T16\Downloads\ConsoleHero\ConsoleHero\ConsoleHero\obj\Debug\ConsoleHero.pdb
